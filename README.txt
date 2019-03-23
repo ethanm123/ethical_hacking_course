@@ -6,3 +6,5 @@ Listening to packets in Python. (scapy and scapy.http)
 Executing command line instructions from a python program. (subprocess)
 Filtering through packets in python. (scapy)
 Regex
+
+NONE OF THE CODE IN THIS FOLDER HAS BEEN OR SHOULD BE USED FOR MALICIOUS PURPOSES.
